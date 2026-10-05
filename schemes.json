@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Sample Scheme A",
+    "description": "Education support for low-income families",
+    "max_income": 250000,
+    "gender": null,
+    "min_age": null,
+    "max_age": null,
+    "districts": null,
+    "communities": null,
+    "source": "official link here"
+  },
+  {
+    "name": "Sample Scheme B",
+    "description": "Support for women",
+    "max_income": 120000,
+    "gender": "Female",
+    "min_age": 18,
+    "max_age": null,
+    "districts": null,
+    "communities": null,
+    "source": "official link here"
+  }
+]
